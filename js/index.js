@@ -1,3 +1,4 @@
+// ustoz uzur imtihon bor edi qila olamadim endi darsda qolib qilib ketaman
 //1
 
 /*
